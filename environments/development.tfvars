@@ -1,0 +1,5 @@
+region      = "us-east-1"
+environment = "development"
+team        = "devops"
+project     = "<project-name>"
+repo_name   = "<repo-name>"
